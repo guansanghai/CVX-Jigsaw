@@ -47,10 +47,12 @@ After 5 iterations (the restored image)
 
 ## References
 
-1. R. Yu, C. Russell, L. Agapito, "Solving Jigsaw puzzles with linear programming," [PDF](https://arxiv.org/abs/1511.04472)
+1. R. Yu, C. Russell, L. Agapito, "Solving Jigsaw puzzles with linear programming" [PDF](https://arxiv.org/abs/1511.04472)
 
 2. F. A. Andalo, G. Taubin, S. Goldenstein, "PSQP: Puzzle solving by quadratic programming," IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 39, no. 2, pp. 385-396, 2017. [PDF](http://ieeexplore.ieee.org/document/7442162/)
 
-3. CVX: Matlab Software for Disciplined Convex Programming. [Download](http://cvxr.com/cvx/)
+3. A. C. Gallagher, "Jigsaw puzzles with pieces of unknown orientation," 2012 IEEE Conference on Computer Vision and Pattern Recognition, Providence, RI, 2012, pp. 382-389.
 
-4. Computational Jigsaw Puzzle Solving. [Website Link](http://icvl.cs.bgu.ac.il/automatic-jigsaw-puzzle-solving/)
+4. CVX: Matlab Software for Disciplined Convex Programming. [Download](http://cvxr.com/cvx/)
+
+5. Computational Jigsaw Puzzle Solving. [Website Link](http://icvl.cs.bgu.ac.il/automatic-jigsaw-puzzle-solving/)
