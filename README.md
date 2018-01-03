@@ -2,6 +2,10 @@
 
 Solving [jigsaw puzzles](https://en.wikipedia.org/wiki/Jigsaw_puzzle) using Matlab and [CVX](http://cvxr.com) toolbox (THU Convex Optimization Homework).
 
+## Contributors
+
+关桑海（电子系），丁瑞金（自动化系）.
+
 ## Platform
 
 * _Matlab_: R2016b or higher
